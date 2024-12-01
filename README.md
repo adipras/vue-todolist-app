@@ -6,7 +6,8 @@
 
 ## Demo
 
-![Project Demo](src/assets/demo.gif)
+[![Watch the video](https://img.youtube.com/vi/3UwxQJB6OP4/maxresdefault.jpg)](https://www.youtube.com/watch?v=3UwxQJB6OP4)
+
 
 
 ## Build Setup
