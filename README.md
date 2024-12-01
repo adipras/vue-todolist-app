@@ -3,6 +3,12 @@
 
 [go-todolist-api](https://github.com/adipras/go-todolist-api) Clone repository backend using golang.
 
+
+## Demo
+
+![Project Demo](src/assets/demo.gif)
+
+
 ## Build Setup
 
 ``` bash
