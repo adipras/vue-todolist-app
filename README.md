@@ -1,7 +1,7 @@
 # To-Do App
 # Vue 3 + Vite
 
-Backend Repository => [go-todolist-api](https://github.com/adipras/go-todolist-api) to clone.
+[go-todolist-api](https://github.com/adipras/go-todolist-api) Clone repository backend using golang.
 
 ## Build Setup
 
